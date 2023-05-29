@@ -1,0 +1,17 @@
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Fourier_Transform.Data.deps.json
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Fourier_Transform.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Fourier_Transform.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.AssemblyInfo.cs
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.csproj.CopyComplete
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\refint\Fourier_Transform.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\Fourier_Transform.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Fourier_Transform.Data\obj\Debug\net7.0\ref\Fourier_Transform.Data.dll

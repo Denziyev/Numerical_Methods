@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbyuzreYnVW6LHyozj7bBgIEWaipJMsRIkozc/E2aHef4UL9CvntJkWLfcPUdjj4KgFFXxTgUWHWK9AbuHcMRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VO\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

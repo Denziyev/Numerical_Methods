@@ -1,0 +1,275 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MathNet.Numerics/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Fourier_Transform.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Inverse_Interpolation_Polynomial.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Fourier_Transform.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fourier_Transform.Data.dll": {}
+        }
+      },
+      "Inverse_Interpolation_Polynomial.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Lagrange_Interpolation_Polynomial.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Inverse_Interpolation_Polynomial.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inverse_Interpolation_Polynomial.Data.dll": {}
+        }
+      },
+      "Lagrange_Interpolation_Polynomial.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Lagrange_Interpolation_Polynomial.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lagrange_Interpolation_Polynomial.Data.dll": {}
+        }
+      },
+      "Least_Squares_Regression/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Lagrange_Interpolation_Polynomial.Data": "1.0.0",
+          "MathNet.Numerics": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Least_Squares_Regression.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Least_Squares_Regression.dll": {}
+        }
+      },
+      "Monte_Carlo_Integration.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Inverse_Interpolation_Polynomial.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Monte_Carlo_Integration.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Monte_Carlo_Integration.Data.dll": {}
+        }
+      },
+      "Newton’s_interpolating_polynomial.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Lagrange_Interpolation_Polynomial.Data": "1.0.0",
+          "Least_Squares_Regression": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Newton’s_interpolating_polynomial.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Newton’s_interpolating_polynomial.Data.dll": {}
+        }
+      },
+      "Power_Method.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Fourier_Transform.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Power_Method.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Power_Method.Data.dll": {}
+        }
+      },
+      "Spline_Interpolation_Polynomial.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Spline_Interpolation_Polynomial.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Spline_Interpolation_Polynomial.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathNet.Numerics/5.0.0": {
+      "sha512": "pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "type": "package",
+      "path": "mathnet.numerics/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net461/MathNet.Numerics.dll",
+        "lib/net461/MathNet.Numerics.xml",
+        "lib/net48/MathNet.Numerics.dll",
+        "lib/net48/MathNet.Numerics.xml",
+        "lib/net5.0/MathNet.Numerics.dll",
+        "lib/net5.0/MathNet.Numerics.xml",
+        "lib/net6.0/MathNet.Numerics.dll",
+        "lib/net6.0/MathNet.Numerics.xml",
+        "lib/netstandard2.0/MathNet.Numerics.dll",
+        "lib/netstandard2.0/MathNet.Numerics.xml",
+        "mathnet.numerics.5.0.0.nupkg.sha512",
+        "mathnet.numerics.nuspec"
+      ]
+    },
+    "Fourier_Transform.Data/1.0.0": {
+      "type": "project",
+      "path": "../Fourier_Transform.Data/Fourier_Transform.Data.csproj",
+      "msbuildProject": "../Fourier_Transform.Data/Fourier_Transform.Data.csproj"
+    },
+    "Inverse_Interpolation_Polynomial.Data/1.0.0": {
+      "type": "project",
+      "path": "../Inverse_Interpolation_Polynomial/Inverse_Interpolation_Polynomial.Data.csproj",
+      "msbuildProject": "../Inverse_Interpolation_Polynomial/Inverse_Interpolation_Polynomial.Data.csproj"
+    },
+    "Lagrange_Interpolation_Polynomial.Data/1.0.0": {
+      "type": "project",
+      "path": "../Lagrange_Interpolation_Polynomial.Data/Lagrange_Interpolation_Polynomial.Data.csproj",
+      "msbuildProject": "../Lagrange_Interpolation_Polynomial.Data/Lagrange_Interpolation_Polynomial.Data.csproj"
+    },
+    "Least_Squares_Regression/1.0.0": {
+      "type": "project",
+      "path": "../Least_Squares_Regression/Least_Squares_Regression.csproj",
+      "msbuildProject": "../Least_Squares_Regression/Least_Squares_Regression.csproj"
+    },
+    "Monte_Carlo_Integration.Data/1.0.0": {
+      "type": "project",
+      "path": "../Monte_Carlo_Integration.Data/Monte_Carlo_Integration.Data.csproj",
+      "msbuildProject": "../Monte_Carlo_Integration.Data/Monte_Carlo_Integration.Data.csproj"
+    },
+    "Newton’s_interpolating_polynomial.Data/1.0.0": {
+      "type": "project",
+      "path": "../Newton’s_interpolating_polynomial.Data/Newton’s_interpolating_polynomial.Data.csproj",
+      "msbuildProject": "../Newton’s_interpolating_polynomial.Data/Newton’s_interpolating_polynomial.Data.csproj"
+    },
+    "Power_Method.Data/1.0.0": {
+      "type": "project",
+      "path": "../Power_Method.Data/Power_Method.Data.csproj",
+      "msbuildProject": "../Power_Method.Data/Power_Method.Data.csproj"
+    },
+    "Spline_Interpolation_Polynomial.Data/1.0.0": {
+      "type": "project",
+      "path": "../Spline_Interpolation_Polynomial.Data/Spline_Interpolation_Polynomial.Data.csproj",
+      "msbuildProject": "../Spline_Interpolation_Polynomial.Data/Spline_Interpolation_Polynomial.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Fourier_Transform.Data >= 1.0.0",
+      "Inverse_Interpolation_Polynomial.Data >= 1.0.0",
+      "Lagrange_Interpolation_Polynomial.Data >= 1.0.0",
+      "Monte_Carlo_Integration.Data >= 1.0.0",
+      "Newton’s_interpolating_polynomial.Data >= 1.0.0",
+      "Power_Method.Data >= 1.0.0",
+      "Spline_Interpolation_Polynomial.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj",
+      "projectName": "NumericalMethodss.App",
+      "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj",
+      "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj"
+            },
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj"
+            },
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj"
+            },
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj"
+            },
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj"
+            },
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj"
+            },
+            "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj": {
+              "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

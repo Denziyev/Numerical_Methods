@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\bin\Debug\net7.0\Least_Squares_Regression.deps.json
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\bin\Debug\net7.0\Least_Squares_Regression.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\bin\Debug\net7.0\Least_Squares_Regression.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.AssemblyInfo.cs
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.csproj.CopyComplete
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\refint\Least_Squares_Regression.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\Least_Squares_Regression.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Least_Squares_Regression\obj\Debug\net7.0\ref\Least_Squares_Regression.dll

@@ -1,0 +1,41 @@
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.deps.json
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.AssemblyInfo.cs
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\refint\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\Newton’s interpolating polynomial\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\ref\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.deps.json
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.AssemblyInfo.cs
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\refint\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\ref\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.deps.json
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.AssemblyInfo.cs
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\refint\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\ref\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\obj\Debug\net7.0\Newton’s_interpolating_polynomial.Data.csproj.CopyComplete
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Least_Squares_Regression.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Newton’s_interpolating_polynomial.Data\bin\Debug\net7.0\Least_Squares_Regression.pdb

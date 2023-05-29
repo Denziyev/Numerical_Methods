@@ -1,0 +1,558 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj",
+        "projectName": "Fourier_Transform.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj",
+        "projectName": "Inverse_Interpolation_Polynomial.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj",
+        "projectName": "Lagrange_Interpolation_Polynomial.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\Least_Squares_Regression.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\Least_Squares_Regression.csproj",
+        "projectName": "Least_Squares_Regression",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\Least_Squares_Regression.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj",
+        "projectName": "Monte_Carlo_Integration.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj",
+        "projectName": "Newton’s_interpolating_polynomial.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\Least_Squares_Regression.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\Least_Squares_Regression.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj",
+        "projectName": "NumericalMethodss.App",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\NumericalMethodss.App.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\NumericalMethodss.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Inverse_Interpolation_Polynomial\\Inverse_Interpolation_Polynomial.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Lagrange_Interpolation_Polynomial.Data\\Lagrange_Interpolation_Polynomial.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Monte_Carlo_Integration.Data\\Monte_Carlo_Integration.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Newton’s_interpolating_polynomial.Data\\Newton’s_interpolating_polynomial.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj"
+              },
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj",
+        "projectName": "Power_Method.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\Power_Method.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Power_Method.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj": {
+                "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Fourier_Transform.Data\\Fourier_Transform.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj",
+        "projectName": "Spline_Interpolation_Polynomial.Data",
+        "projectPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\Spline_Interpolation_Polynomial.Data.csproj",
+        "packagesPath": "C:\\Users\\VO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Spline_Interpolation_Polynomial.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

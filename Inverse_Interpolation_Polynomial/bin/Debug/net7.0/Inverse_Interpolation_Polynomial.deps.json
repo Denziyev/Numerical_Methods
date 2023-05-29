@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Inverse_Interpolation_Polynomial/1.0.0": {
+        "dependencies": {
+          "Lagrange_Interpolation_Polynomial.Data": "1.0.0"
+        },
+        "runtime": {
+          "Inverse_Interpolation_Polynomial.dll": {}
+        }
+      },
+      "Lagrange_Interpolation_Polynomial.Data/1.0.0": {
+        "dependencies": {
+          "Newton’s_interpolating_polynomial.Data": "1.0.0"
+        },
+        "runtime": {
+          "Lagrange_Interpolation_Polynomial.Data.dll": {}
+        }
+      },
+      "Newton’s_interpolating_polynomial.Data/1.0.0": {
+        "runtime": {
+          "Newton’s_interpolating_polynomial.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inverse_Interpolation_Polynomial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lagrange_Interpolation_Polynomial.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newton’s_interpolating_polynomial.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

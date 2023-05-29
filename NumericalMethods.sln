@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newton’s_interpolating_polynomial.Data", "Newton’s_interpolating_polynomial.Data\Newton’s_interpolating_polynomial.Data.csproj", "{CBFFB7E6-3F23-4BC9-BC5C-13E9A08AE07E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lagrange_Interpolation_Polynomial.Data", "Lagrange_Interpolation_Polynomial.Data\Lagrange_Interpolation_Polynomial.Data.csproj", "{8602E069-D139-49E4-8524-F64163C76EAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inverse_Interpolation_Polynomial.Data", "Inverse_Interpolation_Polynomial\Inverse_Interpolation_Polynomial.Data.csproj", "{57C07DEF-E6BF-44BD-8E1C-6984C1B8B228}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumericalMethodss.App", "NumericalMethodss.App\NumericalMethodss.App.csproj", "{3F998C99-4E61-4E59-BE10-19B0DE8519EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spline_Interpolation_Polynomial.Data", "Spline_Interpolation_Polynomial.Data\Spline_Interpolation_Polynomial.Data.csproj", "{5A18B324-6C2F-4463-9EB3-6171B9917914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Least_Squares_Regression", "Least_Squares_Regression\Least_Squares_Regression.csproj", "{778BC264-1CC0-40B3-99C7-B032C597394D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monte_Carlo_Integration.Data", "Monte_Carlo_Integration.Data\Monte_Carlo_Integration.Data.csproj", "{3CE12647-AFAF-4476-8801-B0EF66D80D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fourier_Transform.Data", "Fourier_Transform.Data\Fourier_Transform.Data.csproj", "{18B8E0D2-2576-4211-8C0B-61AAE055B32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power_Method.Data", "Power_Method.Data\Power_Method.Data.csproj", "{02370F39-7A4F-4AAE-AF7A-BE2F155BBB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFFB7E6-3F23-4BC9-BC5C-13E9A08AE07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFFB7E6-3F23-4BC9-BC5C-13E9A08AE07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFFB7E6-3F23-4BC9-BC5C-13E9A08AE07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFFB7E6-3F23-4BC9-BC5C-13E9A08AE07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8602E069-D139-49E4-8524-F64163C76EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8602E069-D139-49E4-8524-F64163C76EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8602E069-D139-49E4-8524-F64163C76EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8602E069-D139-49E4-8524-F64163C76EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C07DEF-E6BF-44BD-8E1C-6984C1B8B228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C07DEF-E6BF-44BD-8E1C-6984C1B8B228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C07DEF-E6BF-44BD-8E1C-6984C1B8B228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C07DEF-E6BF-44BD-8E1C-6984C1B8B228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F998C99-4E61-4E59-BE10-19B0DE8519EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F998C99-4E61-4E59-BE10-19B0DE8519EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F998C99-4E61-4E59-BE10-19B0DE8519EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F998C99-4E61-4E59-BE10-19B0DE8519EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A18B324-6C2F-4463-9EB3-6171B9917914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A18B324-6C2F-4463-9EB3-6171B9917914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A18B324-6C2F-4463-9EB3-6171B9917914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A18B324-6C2F-4463-9EB3-6171B9917914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778BC264-1CC0-40B3-99C7-B032C597394D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778BC264-1CC0-40B3-99C7-B032C597394D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778BC264-1CC0-40B3-99C7-B032C597394D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778BC264-1CC0-40B3-99C7-B032C597394D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE12647-AFAF-4476-8801-B0EF66D80D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE12647-AFAF-4476-8801-B0EF66D80D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE12647-AFAF-4476-8801-B0EF66D80D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE12647-AFAF-4476-8801-B0EF66D80D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B8E0D2-2576-4211-8C0B-61AAE055B32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B8E0D2-2576-4211-8C0B-61AAE055B32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B8E0D2-2576-4211-8C0B-61AAE055B32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B8E0D2-2576-4211-8C0B-61AAE055B32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02370F39-7A4F-4AAE-AF7A-BE2F155BBB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02370F39-7A4F-4AAE-AF7A-BE2F155BBB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02370F39-7A4F-4AAE-AF7A-BE2F155BBB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02370F39-7A4F-4AAE-AF7A-BE2F155BBB13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A45AB3-1C04-4715-B122-D122DF45D4F2}
+	EndGlobalSection
+EndGlobal

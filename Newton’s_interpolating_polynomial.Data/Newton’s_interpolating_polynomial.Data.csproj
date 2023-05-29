@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Newton_s_interpolating_polynomial.Data</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lagrange_Interpolation_Polynomial.Data\Lagrange_Interpolation_Polynomial.Data.csproj" />
+    <ProjectReference Include="..\Least_Squares_Regression\Least_Squares_Regression.csproj" />
+  </ItemGroup>
+
+</Project>

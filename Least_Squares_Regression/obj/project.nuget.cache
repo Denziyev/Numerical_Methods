@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRjdDEagwA6lsX3jo/9UB/hG3XTa6L9kCf7bcdtGHudnH1qZasrjTqtCJ5kyfstFoDkDeVRHc7gIrMTmYy1Flg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VO\\Desktop\\c#projects\\Numerical-Method-Independent-Works\\Least_Squares_Regression\\Least_Squares_Regression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VO\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

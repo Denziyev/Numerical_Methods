@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Power_Method.Data/1.0.0": {
+        "dependencies": {
+          "Fourier_Transform.Data": "1.0.0"
+        },
+        "runtime": {
+          "Power_Method.Data.dll": {}
+        }
+      },
+      "Fourier_Transform.Data/1.0.0": {
+        "dependencies": {
+          "Inverse_Interpolation_Polynomial.Data": "1.0.0"
+        },
+        "runtime": {
+          "Fourier_Transform.Data.dll": {}
+        }
+      },
+      "Inverse_Interpolation_Polynomial.Data/1.0.0": {
+        "dependencies": {
+          "Lagrange_Interpolation_Polynomial.Data": "1.0.0"
+        },
+        "runtime": {
+          "Inverse_Interpolation_Polynomial.Data.dll": {}
+        }
+      },
+      "Lagrange_Interpolation_Polynomial.Data/1.0.0": {
+        "runtime": {
+          "Lagrange_Interpolation_Polynomial.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Power_Method.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fourier_Transform.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inverse_Interpolation_Polynomial.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lagrange_Interpolation_Polynomial.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

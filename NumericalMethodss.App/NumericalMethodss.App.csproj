@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fourier_Transform.Data\Fourier_Transform.Data.csproj" />
+    <ProjectReference Include="..\Inverse_Interpolation_Polynomial\Inverse_Interpolation_Polynomial.Data.csproj" />
+    <ProjectReference Include="..\Lagrange_Interpolation_Polynomial.Data\Lagrange_Interpolation_Polynomial.Data.csproj" />
+    <ProjectReference Include="..\Monte_Carlo_Integration.Data\Monte_Carlo_Integration.Data.csproj" />
+    <ProjectReference Include="..\Newton’s_interpolating_polynomial.Data\Newton’s_interpolating_polynomial.Data.csproj" />
+    <ProjectReference Include="..\Power_Method.Data\Power_Method.Data.csproj" />
+    <ProjectReference Include="..\Spline_Interpolation_Polynomial.Data\Spline_Interpolation_Polynomial.Data.csproj" />
+  </ItemGroup>
+
+</Project>

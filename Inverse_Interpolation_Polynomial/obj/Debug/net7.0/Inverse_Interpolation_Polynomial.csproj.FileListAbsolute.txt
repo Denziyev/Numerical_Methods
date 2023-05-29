@@ -1,0 +1,17 @@
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.deps.json
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.pdb
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\bin\Debug\net7.0\Newton’s_interpolating_polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.AssemblyInfo.cs
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.csproj.CopyComplete
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\refint\Inverse_Interpolation_Polynomial.dll
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\Inverse_Interpolation_Polynomial.pdb
+C:\Users\VO\Desktop\c#projects\Numerical_Methods\Inverse_Interpolation_Polynomial\obj\Debug\net7.0\ref\Inverse_Interpolation_Polynomial.dll

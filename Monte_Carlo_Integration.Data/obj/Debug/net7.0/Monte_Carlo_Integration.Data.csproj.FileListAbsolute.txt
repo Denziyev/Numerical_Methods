@@ -1,0 +1,17 @@
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Monte_Carlo_Integration.Data.deps.json
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Monte_Carlo_Integration.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Monte_Carlo_Integration.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Inverse_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\bin\Debug\net7.0\Lagrange_Interpolation_Polynomial.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.AssemblyInfo.cs
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.csproj.CopyComplete
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\refint\Monte_Carlo_Integration.Data.dll
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\Monte_Carlo_Integration.Data.pdb
+C:\Users\VO\Desktop\c#projects\Numerical-Method-Independent-Works\Monte_Carlo_Integration.Data\obj\Debug\net7.0\ref\Monte_Carlo_Integration.Data.dll
